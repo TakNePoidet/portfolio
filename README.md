@@ -2,12 +2,12 @@
 
 ## В рамках "Студии Банан"
 
-1. [Bash.news](sites/bash-news)
-2. [ПР-Лизинг](sites/pr-liz)
-3. [The Time Office](sites/the-time-office)
-4. [МастерВин](sites/mastervinshop)
-5. [Simple Solution Group](sites/simple-solution-group)
-6. [Гарантийный фонд](sites/gf-cmbrb)
+1. [Bash.news](sites/bash-news/index.md)
+2. [ПР-Лизинг](sites/pr-liz/index.md)
+3. [The Time Office](sites/the-time-office/index.md)
+4. [МастерВин](sites/mastervinshop/index.md)
+5. [Simple Solution Group](sites/simple-solution-group/index.md)
+6. [Гарантийный фонд](sites/gf-cmbrb/index.md)
 
 ## Персональные
 
