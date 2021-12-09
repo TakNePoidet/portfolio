@@ -1,24 +1,15 @@
 # Портфолио
 
-### В рамках "Студии Банан"
+## В рамках "Студии Банан"
 
-### [1. Bash.news](https://bash.news) - группа ГУП ТРК «БАШКОРТОСТАН» РБ.
+1. [Bash.news](sites/bash-news)
+2. [ПР-Лизинг](sites/pr-liz)
+3. [The Time Office](sites/the-time-office)
+4. [МастерВин](sites/mastervinshop)
+5. [Simple Solution Group](sites/simple-solution-group)
+6. [Гарантийный фонд](sites/gf-cmbrb)
 
-Технологии: `Laravel`, `TypeScript`, `Vue`, `Scss`
-
-### [2. ПР-Лизинг](https://pr-liz.ru) - Лзинговая компания ПР-Лизинг
-
-Технологии: `Laravel`, `TypeScript`, `Vue`, `Scss`
-
-### [3. The Time Office ](https://timeoffice.club) - коворкинг клуб
-
-Технологии: `WordPress`, `TypeScript`, `Vue`, `Scss`
-
-### [4. МастерВин](https://mastervinshop.ru) - магазин алкогольных напитков
-
-Технологии: `Bitrix`, `TypeScript`, `Scss`
-
-### Персональные
+## Персональные
 
 ### [1. Webpack Starter](https://github.com/TakNePoidet/webpack-starter) - стартовая конфигурация Webpack
 
@@ -30,6 +21,6 @@
 
 ### [5. Сonsole сommander](https://github.com/TakNePoidet/console-commander) - простой консольный менеджер команд
 
-### [6. Yandex video cover](https://github.com/TakNePoidet/yandex-video-cover) - получение и кешировение обложки видео с яндекс эфира
+### [6. Yandex video cover](https://github.com/TakNePoidet/yandex-video-cover) - получение и кеширование обложки видео с яндекс эфира
 
-### [7. Chunks Assets Manifest](https://github.com/TakNePoidet/webpack-chunks-assets-manifest) - генерирует файл `JSON`, который соответствует точкам входа и его ресурсам.
+### [7. Chunks Assets Manifest](https://github.com/TakNePoidet/webpack-chunks-assets-manifest) - генерирует файл `JSON`, который соответствует точкам входа и его ресурсам
