@@ -1,16 +1,3 @@
----
-title: The Time Office
-tags:
-  - WordPress
-  - TypeScript
-  - Vue
-  - Sass
-description: Уютный коворкинг в городе Уфа
-link: https://timeoffice.club
-color: #E22B29
-icon: ./images/icon.svg
----
-
-## [The Time Office](https://timeoffice.club)
+# [The Time Office](https://timeoffice.club)
 
 Уютный коворкинг в городе Уфа

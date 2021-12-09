@@ -1,13 +1,13 @@
 {
-  "scripts": {
-    "formatter": "prettier --write **/*.md",
-    "lint": "markdownlint '**/*.md' --ignore node_modules"
-  },
-  "dependencies": {
-    "markdownlint-cli": "^0.30.0"
-  },
-  "devDependencies": {
-    "@taknepoidet-config/prettier": "^1.7.0",
-    "prettier": "^2.5.1"
-  }
+	"scripts": {
+		"formatter": "prettier --write .",
+		"lint": "markdownlint '**/*.md' --ignore node_modules"
+	},
+	"dependencies": {
+		"markdownlint-cli": "^0.30.0"
+	},
+	"devDependencies": {
+		"@taknepoidet-config/prettier": "^1.7.0",
+		"prettier": "^2.5.1"
+	}
 }
