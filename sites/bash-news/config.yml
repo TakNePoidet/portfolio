@@ -8,3 +8,5 @@ description: Новостной ресурс ГУП ТРК «БАШКОРТОС�
 link: https://bash.news
 color: #2f80ed
 icon: ./images/icon.svg
+screenshot: ./images/full-screenshot.svg
+cover: ./images/screenshot.svg

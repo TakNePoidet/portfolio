@@ -8,3 +8,5 @@ description: Сайт магазина алкогольных напитков
 link: https://mastervinshop.ru
 color: #6C1B2A
 icon: ./images/icon.svg
+screenshot: ./images/full-screenshot.svg
+cover: ./images/screenshot.svg
