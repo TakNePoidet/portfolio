@@ -2,4 +2,9 @@
 
 Группа компаний "Simple Solution Group"
 
-![Главная страница](images/screenshot.png)
+![Главная страница](images/screenshot.png) Главная страница - скриншот Якин Никита
+
+## Технологии
+
+- Pug
+- Sass
